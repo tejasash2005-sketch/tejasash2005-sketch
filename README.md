@@ -35,3 +35,4 @@
 *Tejas S. · MCA Student · Bengaluru, India*
 
 > Before publishing: check every project URL, update descriptions and social links, and make sure the generated portrait looks like you. The SVGs embed the character artwork so they do not depend on external image hosting.
+> porfolio website link:https://tejasash-amber-atelier.lovable.app
